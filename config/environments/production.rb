@@ -90,6 +90,6 @@ Rails.application.configure do
       secret_access_key: ENV.fetch('S3_SECRET'),
       s3_region: ENV.fetch('S3_REGION'),
     }
-}
+  }
 
 end
