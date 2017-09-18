@@ -1,0 +1,2 @@
+class Redux < ApplicationRecord
+end

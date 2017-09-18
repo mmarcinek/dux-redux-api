@@ -1,0 +1,2 @@
+class Dux < ApplicationRecord
+end
